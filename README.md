@@ -9,4 +9,4 @@ chmod -R 777 /home/joomla/var/www/html
 bash install-joomla.sh 
 # 查看docker实例是否正常运行
 docker ps
-![image](https://github.com/kevinsingapore/joomla/joomla.png)
+![image](https://github.com/kevinsingapore/joomla/blob/master/joomla.png)
