@@ -2,10 +2,10 @@
 version:3.9.11
 # 创建数据目录
 ```Bash  
- mkdir -p /home/joomla/var/www/html
+mkdir -p /home/joomla/var/www/html
 ```
 ```Bash
-   chmod -R 777 /home/joomla/var/www/html
+chmod -R 777 /home/joomla/var/www/html
 ```
 # 创建数据库
 创建数据库文档地址https://www.xiaodianer.net/index.php/docker/2-joomla-mysql
